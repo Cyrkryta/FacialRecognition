@@ -3,3 +3,4 @@
 data*
 archive.zip
 training_checkpoints*
+SiameseModel.h5
